@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Fri, 21 Jan 2022 19:19:56 -0300
+Source: mgdiff
+Binary: mgdiff mgdiff-dbgsym
+Architecture: source amd64
+Version: 1.0-31
+Distribution: unstable
+Urgency: medium
+Maintainer: Josenilson Ferreira da Silva <nilsonfsilva@hotmail.com>
+Changed-By: Josenilson Ferreira da Silva <nilsonfsilva@hotmail.com>
+Description:
+ mgdiff     - xdiff clone
+Closes: 89694
+Changes:
+ mgdiff (1.0-31) unstable; urgency=medium
+ .
+   * Initial release. (Closes: #89694)
+Checksums-Sha1:
+ b6382f9f4ff4e4ae2f2ec97d58647f97bbeabeac 969 mgdiff_1.0-31.dsc
+ 6cd250f2f9a5c44e789e51ccc235af874dcf93ce 43760 mgdiff_1.0-31.diff.gz
+ 95ad6aae75cacce4f79d17ea835aad2ab3c6c21d 84348 mgdiff-dbgsym_1.0-31_amd64.deb
+ 6b306cf764464150304a18d360fa77c7fae07af8 6702 mgdiff_1.0-31_amd64.buildinfo
+ 11bdc7fb119cd70108025f0b13209ae59d4c4e1b 58560 mgdiff_1.0-31_amd64.deb
+Checksums-Sha256:
+ 1456ac9ca40f0f4f1c4dc3e381e8a8fd9571a167e06ebd5721ea065504582470 969 mgdiff_1.0-31.dsc
+ ca7b4368346b3c5762de00451b83644fa87c974cce33f6a6af5130590393e230 43760 mgdiff_1.0-31.diff.gz
+ f24c648407ac00d1808a680d721ab849cbf2a4de1636452187b816595c840bf9 84348 mgdiff-dbgsym_1.0-31_amd64.deb
+ d975e689137cb9a361918ecb56fe036887009b16e4cd0817ede976c301c08b02 6702 mgdiff_1.0-31_amd64.buildinfo
+ 68b554d43e36fb59b07b2c065802fe2200fe1f1b6f018dfb980dc73573591529 58560 mgdiff_1.0-31_amd64.deb
+Files:
+ 26ec29260e86bb5bf7856d748a0aed62 969 text optional mgdiff_1.0-31.dsc
+ df82edc1f6db8564c309e7692f41a66b 43760 text optional mgdiff_1.0-31.diff.gz
+ 1b028972921e9ffa7755e1f996c549e9 84348 debug optional mgdiff-dbgsym_1.0-31_amd64.deb
+ 01bf3b79514014db7ba2667569fbead4 6702 text optional mgdiff_1.0-31_amd64.buildinfo
+ 59c3eda9abd78d70dae68c8ba2edac4d 58560 text optional mgdiff_1.0-31_amd64.deb
