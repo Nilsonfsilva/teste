@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Wed, 05 Jan 2022 21:24:41 -0300
+Source: parity-ethereum
+Binary: parity-ethereum
+Architecture: source all
+Version: 3.0.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Josenilson Ferreira da Silva <nilsonfsilva@hotmail.com>
+Changed-By: Josenilson Ferreira da Silva <nilsonfsilva@hotmail.com>
+Description:
+ parity-ethereum - parity Ethereum provides the core infrastructure essential for
+Closes: 890550
+Changes:
+ parity-ethereum (3.0.1-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #890550)
+Checksums-Sha1:
+ 0163803c66995301e33ef979e83eb6d8b2dec12d 930 parity-ethereum_3.0.1-1.dsc
+ bc5aa1d23534e2d0806621f7ca7647d38df5fe31 2815536 parity-ethereum_3.0.1.orig.tar.xz
+ bb64ed99a6fd91bc881c945a846afe2a5828f5ec 1564 parity-ethereum_3.0.1-1.debian.tar.xz
+ de66d621c79087177daaae6453eb86680f70abc6 4980 parity-ethereum_3.0.1-1_all.deb
+ 0b39100c10d1b06515f7cf904fa80a9c9424465f 4844 parity-ethereum_3.0.1-1_amd64.buildinfo
+Checksums-Sha256:
+ 5d0f1581d0fe2160429313cb60c8ed831240b834a09e520e843ab0cbfe8cf1d4 930 parity-ethereum_3.0.1-1.dsc
+ 854d3faaaf7ec2023360e514db69cfdd7b9e011facb4b1064ddfeb14d5979dd1 2815536 parity-ethereum_3.0.1.orig.tar.xz
+ 49db7baf31fb325922780cbec4cf2f0e35518a357f12732f14664c2bcf0abee0 1564 parity-ethereum_3.0.1-1.debian.tar.xz
+ 78c19292715f39fb96a804be1bb2d70fba06f0827604b891cff0a67a7ffbd3ed 4980 parity-ethereum_3.0.1-1_all.deb
+ 44ebcc45c157983dfca943b4fcdfee42acab9b2085c6dd453206907528f71f94 4844 parity-ethereum_3.0.1-1_amd64.buildinfo
+Files:
+ 533e38207e66689f73913e9fd40e7d6c 930 net optional parity-ethereum_3.0.1-1.dsc
+ ddf4812c6ba0dbd782cade691534e223 2815536 net optional parity-ethereum_3.0.1.orig.tar.xz
+ fd138a8c09324070799c2837b1dba21c 1564 net optional parity-ethereum_3.0.1-1.debian.tar.xz
+ 54ec5ecd1ca1dfce97d970bbc96ded5e 4980 net optional parity-ethereum_3.0.1-1_all.deb
+ 57284d0e339d5442f3bdf04279f4dc01 4844 net optional parity-ethereum_3.0.1-1_amd64.buildinfo
